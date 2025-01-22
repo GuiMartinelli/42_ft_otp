@@ -20,7 +20,7 @@ TOTP stands for Time-based One-Time Passwords and is a common form of two-factor
 <br/><br/>
 
 ### RESOURCES
-https://datatracker.ietf.org/doc/html/rfc6238
-https://www.comparitech.com/blog/information-security/what-is-fernet/
-https://medium.com/analytics-vidhya/understanding-totp-in-python-bbe994606087
-https://gist.github.com/frasertweedale/607c2e80683c36d576d2
+https://datatracker.ietf.org/doc/html/rfc6238<br/>
+https://www.comparitech.com/blog/information-security/what-is-fernet/<br/>
+https://medium.com/analytics-vidhya/understanding-totp-in-python-bbe994606087<br/>
+https://gist.github.com/frasertweedale/607c2e80683c36d576d2<br/>
